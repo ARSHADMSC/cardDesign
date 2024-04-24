@@ -1,0 +1,9 @@
+/* core concept=>box model,css animation,css flexbox*/
+/* resposive food ordering */
+
+.card{
+    width: 400px;
+    border: 1px solid;
+    padding: 20px;
+    margin: 40px;
+}
